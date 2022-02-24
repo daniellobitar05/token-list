@@ -121,7 +121,18 @@
         "decimals": 18,
         "tags": [
         ]
-      },      
+      },
+      {
+        "chainId": 40,
+        "address": "0x9A271E3748F59222f5581BaE2540dAa5806b3F77",
+        "symbol": "ZAP",
+        "name": "Zappy",
+        "logoURI": "https://raw.githubusercontent.com/zappy-finance/zappy-tokenlists/main/logos/0x9A271E3748F59222f5581BaE2540dAa5806b3F77/logo.png",
+        "decimals": 18,
+        "tags": [
+          "telosevm"
+        ]
+      },
       {
         "chainId": 40,
         "address": "0xd2504a02fABd7E546e41aD39597c377cA8B0E1Df",
@@ -208,11 +219,33 @@
         "tags": [  
          "telosevm"         
         ]
-      }
+        },
+        {
+        "chainId": 40,
+        "address": "0x5C8F2334BD0e7B76e15a7869E31c1F1A654a2B62",
+        "symbol": "DOG",
+        "logoURI": "https://gateway.ipfs.io/ipfs/QmerrZ47zBxoQqkr4gfY53wvoAUqn3JXs6R6VCfE4s9nkK",
+        "name": "Glue Dog",
+        "decimals": 18,
+        "tags": [  
+         "telosevm"
+        ]
+        },
+        {
+        "chainId": 40,
+        "address": "0xE5dE07ec385B1BD55f6bB02c01860547be9D7C0B",
+        "symbol": "PIG",
+        "logoURI": "https://gateway.ipfs.io/ipfs/QmPThPaz3kjWaLjDAZKP8frpzaVm5Rvi5wCcUbag8QhgRL",
+        "name": "Big Pig",
+        "decimals": 18,
+        "tags": [  
+         "telosevm"
+        ]
+        }
     ],
     "version": {
       "major": 0,
-      "minor": 2,
-      "patch": 6
+      "minor": 3,
+      "patch": 2
     }
   }
